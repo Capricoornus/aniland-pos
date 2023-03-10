@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="delete_icon.svg"
+   inkscape:export-filename="cross_icon.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.0516981"
+     inkscape:cx="69.723853"
+     inkscape:cy="9.2553787"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2636"
+       transform="matrix(0.8467951,0,0,0.88119227,1.4193588,1.0059056)">
+      <rect
+         style="fill:#aa0000;stroke:#aa0000;stroke-width:0.264583"
+         id="rect2454"
+         width="11.591076"
+         height="9.9911804"
+         x="5.7792134"
+         y="3.4710765"
+         ry="0.84917569" />
+      <rect
+         style="fill:#aa0000;stroke:#aa0000;stroke-width:0.241004"
+         id="rect2454-9"
+         width="9.8515053"
+         height="9.7535524"
+         x="5.2592669"
+         y="-3.4248173"
+         ry="0.82897907"
+         transform="rotate(47.269471)" />
+    </g>
+    <g
+       id="g2649"
+       transform="matrix(0.36509851,0,0,0.36509851,11.943861,5.3158952)"
+       style="fill:#ffffff">
+      <rect
+         style="fill:#ffffff;stroke-width:0.410765"
+         id="rect221"
+         width="16.880526"
+         height="4.5711284"
+         x="-21.27783"
+         y="-2.9010224"
+         ry="0.44646159"
+         transform="rotate(-44.925265)" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.410765"
+         id="rect275"
+         width="16.880526"
+         height="4.5711284"
+         x="-7.8248057"
+         y="-15.123133"
+         ry="0.44646159"
+         transform="rotate(-134.92526)" />
+    </g>
+  </g>
+</svg>
